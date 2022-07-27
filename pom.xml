@@ -37,7 +37,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>meghanath0722</username>
 						<password>Meghanath1605$</password>
-						<applicationName>hello-world-api</applicationName>
+						<applicationName>ngshyd-hello-world-api</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
 						<workers>1</workers>
