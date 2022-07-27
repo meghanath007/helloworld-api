@@ -45,6 +45,9 @@
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
 							<http.port>8081</http.port>
+							<api.id>18018748</api.id>
+							<anypoint.platform.client_id>f7eae84a17564cb8a7e3a565e2a88534</anypoint.platform.client_id>
+							<anypoint.platform.client_secret>5E3D6CDc333748Ca80C64726e95586A3</anypoint.platform.client_secret>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
